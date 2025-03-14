@@ -1,0 +1,5 @@
+/* Hide "No Contributions" Tooltip */
+ 
+tool-tip[role="tooltip"] {
+    display: none !important;
+}
